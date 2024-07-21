@@ -35,7 +35,7 @@ Introdução ao C++
 27. - [x] Palavra-chave `return`
 28. - [x] Sobrecarga de funções
 29. - [x] Escopo de variáveis
-30. - [ ] Programa de prática: Sistema bancário
+30. - [x] Programa de prática: Sistema bancário
 31. - [ ] Jogo Pedra, Papel, Tesoura
 32. - [ ] Arrays
 33. - [ ] Operador `sizeof()`
