@@ -36,7 +36,7 @@ Introdução ao C++
 28. - [x] Sobrecarga de funções
 29. - [x] Escopo de variáveis
 30. - [x] Programa de prática: Sistema bancário
-31. - [ ] Jogo Pedra, Papel, Tesoura
+31. - [x] Jogo Pedra, Papel, Tesoura
 32. - [ ] Arrays
 33. - [ ] Operador `sizeof()`
 34. - [ ] Iterar sobre um array
