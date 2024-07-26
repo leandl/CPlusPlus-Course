@@ -37,17 +37,17 @@ Introdução ao C++
 29. - [x] Escopo de variáveis
 30. - [x] Programa de prática: Sistema bancário
 31. - [x] Jogo Pedra, Papel, Tesoura
-32. - [ ] Arrays
-33. - [ ] Operador `sizeof()`
-34. - [ ] Iterar sobre um array
-35. - [ ] Laço `foreach`
-36. - [ ] Passar array para uma função
-37. - [ ] Buscar um elemento em um array
-38. - [ ] Ordenar um array
-39. - [ ] Função `fill()`
-40. - [ ] Preencher um array com entrada do usuário
-41. - [ ] Arrays multidimensionais
-42. - [ ] Jogo de perguntas e respostas (Quiz)
+32. - [x] Arrays
+33. - [x] Operador `sizeof()`
+34. - [x] Iterar sobre um array
+35. - [x] Laço `foreach`
+36. - [x] Passar array para uma função
+37. - [x] Buscar um elemento em um array
+38. - [x] Ordenar um array
+39. - [x] Função `fill()`
+40. - [x] Preencher um array com entrada do usuário
+41. - [x] Arrays multidimensionais
+42. - [x] Jogo de perguntas e respostas (Quiz)
 43. - [ ] Endereços de memória
 44. - [ ] Passagem por valor vs. passagem por referência
 45. - [ ] Parâmetros `const`
